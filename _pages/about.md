@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD student in linguistics at MIT. Previously, I was at the University of Oslo.
+I'm a PhD student in linguistics at MIT.
 
 My main academic interests include:
 
@@ -35,8 +35,4 @@ My main academic interests include:
 
 Other than linguistics, I play the piano – I have an amateur-ish jazz training, so I should be able to comp if given chords – and sing. Moreover, I enjoy cooking and eating (and drinking), theater, and I'm fascinated by islands (the geographic ones).
 
-I'm from Correggio, a small town in Emilia-Romagna in Northern Italy. I have also lived in Norway for many years, and specifically Northern Norway is my second home .
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm from Correggio, a small town in Emilia-Romagna in Northern Italy. I have also lived in Norway for many years, and specifically Northern Norway is my second home.
