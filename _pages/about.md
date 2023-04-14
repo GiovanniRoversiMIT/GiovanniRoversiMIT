@@ -2,7 +2,7 @@
 layout: about
 title: About me 👋🏼
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://linguistics.mit.edu/user/groversi/'>MIT page</a>.
 
 profile:
   align: right
@@ -36,8 +36,6 @@ My main academic interests include:
 Other than linguistics, I play the piano – I have an amateur-ish jazz training, so I should be able to comp if given chords – and sing. Moreover, I enjoy cooking and eating (and drinking), theater, and I'm fascinated by islands (the geographic ones).
 
 I'm from Correggio, a small town in Emilia-Romagna in Northern Italy. I have also lived in Norway for many years, and specifically Northern Norway is my second home .
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
