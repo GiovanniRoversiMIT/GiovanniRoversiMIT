@@ -2,7 +2,7 @@
 layout: about
 title: About me 👋🏼
 permalink: /
-subtitle: <a href='https://linguistics.mit.edu/user/groversi/'>MIT page</a>.
+subtitle: I'm a PhD student in linguistics at <a href='https://linguistics.mit.edu/user/groversi/'>MIT</a>.
 
 profile:
   align: right
@@ -19,7 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD student in linguistics at MIT.
 
 My main academic interests include:
 
