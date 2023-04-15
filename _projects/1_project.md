@@ -2,7 +2,7 @@
 layout: page
 title: The Morphology of North Sámi Adjectives
 permalink: /projects/northsamiadjectives
-#img: assets/img/sami_flag.jpg
+img: assets/img/sami_flag.jpg
 importance: 1
 category: work
 ---
