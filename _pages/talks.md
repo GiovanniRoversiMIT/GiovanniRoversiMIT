@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talks/
-title: talks 🧑🏻‍🏫
+title: talks 🎤
 description: #
 years: [2023, 2022, 2020, 2019, 2018]
 nav: true
