@@ -2,36 +2,37 @@
 layout: about
 title: about me 👋🏼
 permalink: /
-subtitle: I'm a PhD student in linguistics at <a href='https://linguistics.mit.edu/user/groversi/'>MIT</a>.
+# subtitle: I'm a PhD student in linguistics at <a href='https://linguistics.mit.edu/user/groversi/'>MIT</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 #  address: >
-#    <p>555 your office number</p>
+#    (I almost never hike)
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+Hi! I'm Giovanni (he/him), a PhD student in linguistics at <a href='https://linguistics.mit.edu/user/groversi/'>MIT</a>.
 
-My main academic interests include:
+My work is mostly involved with morphology, syntax, and their interaction.<br>
+I often work on underresearched languages, most prominently Äiwoo (Oceanic), North Sámi (Uralic), and Passamaquoddy (Algonquian).<br> 
+Some of the topics I've worked on include:
 
-- (Verbal) morphosyntax: how do we stack morphemes onto each other?
-
-- Argument structure: how do we tell who does what to whom?
-
-- Underresearched languages: how can typology inform formal linguistics, and how can formal linguistics inform typology?
-
-- The Oceanic language Äiwoo.
+- **Agreement**: what kind of theory do we need to model complex agreement systems?
+- **Possession**: how is this semantic notion mapped onto the syntax of different languages?
+- **Language acquisition**: what kind of grammatical rules can('t) children acquire?
+- **Argument structure/voice**: how do we tell who does what to whom?
+- **Affix order**: how do we stack morphemes onto each other?
 
 
 
-Other than linguistics, I play the piano – I have an amateur-ish jazz training, so I should be able to comp if given chords – and sing. Moreover, I enjoy cooking and eating (and drinking), theater, and I'm fascinated by islands (the geographic ones).
+Outside of academia, as a hobby I play the piano – I have an amateur-ish jazz training, so I should be able to comp if given chords – and sing.
 
-I'm from Correggio, a small town in Emilia-Romagna in Northern Italy. I have also lived in Norway for many years, and specifically Northern Norway is my second home.
+I'm originally from Correggio, a small town in Emilia-Romagna in Northern Italy. I have also lived in Norway for many years, and specifically Northern Norway is my second home.
