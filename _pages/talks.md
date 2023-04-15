@@ -11,19 +11,10 @@ nav_order: 1
 <div class="publications">
 
 
-# Invited talks
+<h2 class="year">Invited talks</h2>
+{% bibliography -f invitedtalks %}
 
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f talks -q @*[year={{y}}]* %}
-{% endfor %}
-
-
-# Other talks
-
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f talks -q @*[year={{y}}]* %}
-{% endfor %}
+<h2 class="year">Other talks</h2>
+{% bibliography -f talks %}
 
 </div>
