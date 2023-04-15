@@ -23,6 +23,7 @@ Hi! I'm Giovanni (he/him), a PhD student in linguistics at <a href='https://ling
 
 My work is mostly involved with **morphology, syntax,<br> and their interactions**.<br>
 I often work on underresearched languages, most prominently Äiwoo (Oceanic), North Sámi (Uralic), and Passamaquoddy (Algonquian).<br> 
+I'm also a member of the [Language Acquisition Lab at MIT](https://www.childlanguage.mit.edu/about).<br>
 Some of the topics I've worked on include:
 
 - **Agreement**: what kind of theory do we need to model complex agreement systems?
