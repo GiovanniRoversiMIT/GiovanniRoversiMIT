@@ -14,7 +14,7 @@ Invited talks
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f talks -q @*[year={{y}}]* %}
+  {% bibliography -f talks -q @*[year={{y}}]* && @*[keyword ^= invited] %}
 {% endfor %}
 
 Other talks
