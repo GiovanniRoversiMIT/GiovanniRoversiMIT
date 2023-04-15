@@ -3,7 +3,7 @@ layout: page
 permalink: /talks/
 title: talks 🎤
 description: #
-years: [2023, 2022, 2020, 2019, 2018]
+years: [2022, 2019, 2018]
 nav: true
 nav_order: 1
 ---
@@ -12,7 +12,7 @@ nav_order: 1
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
+  {% bibliography -f talks -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>
