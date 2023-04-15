@@ -108,13 +108,19 @@
 
         <!-- Journal/Book title and date -->
         {% assign proceedings = "inproceedings,incollection" | split: ','%}
-        {% assign thesis = "thesis,mastersthesis,phdthesis" | split: ','%}
+        {% assign thesis = "thesis,phdthesis" | split: ','%}
         {% if entry.type == "article" -%}
-          {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
+          {%- capture entrytype -%}<em>{{entry.journal}}</em> {{entry.volume}}, {{entry.pages}}{%- endcapture -%}
         {%- elsif proceedings contains entry.type -%}
           {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
         {%- elsif thesis contains entry.type -%}
           {%- capture entrytype -%}<em>{{entry.school}}</em> {%- endcapture -%}
+        {%- elsif entry.type == "mastersthesis" -%}
+          {%- capture entrytype -%}MA thesis; {{entry.school}}{%- endcapture -%}
+        {%- elsif entry.type == "unpublished" -%}
+          {%- capture entrytype -%}{{entry.address}}{%- endcapture -%}
+        {%- elsif entry.type == "misc" -%}
+          {%- capture entrytype -%}{{entry.note}}{%- endcapture -%}
         {%- else -%}
           {%- capture entrytype -%}{%- endcapture -%}
         {%- endif -%}
@@ -124,18 +130,12 @@
         {%- if entry.year -%}
           {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
         {%- endif -%}
-        {%- if entry.volume -%}
-          {%- capture entryvolume -%}{{entry.volume}}{%- endcapture -%}
-          {%- capture entrypages -%}{{entry.pages}}{%- endcapture -%}
-        {%- endif -%}
         {% assign entrytype_text = entrytype | strip_html | strip %}
         {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
         <div class="periodical">
           {{ periodical | strip }}
         </div>
-        <div class="periodical">
-          {{ entry.note | strip }}
-        </div>
+
 
           <!-- Links/Buttons -->
           <div class="links">

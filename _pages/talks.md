@@ -15,7 +15,7 @@ nav_order: 1
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f talks -q @*[keywords] && -q @*[year={{y}}]* %}
+  {% bibliography -f talks -q @*[year={{y}}]* %}
 {% endfor %}
 
 
