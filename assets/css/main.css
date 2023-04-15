@@ -6,7 +6,7 @@
  * Themes
  ******************************************************************************/
 :root {
-  --global-bg-color: #ffffff;
+  --global-bg-color: rgba(255, 255, 252, 0.8);
   --global-code-bg-color: rgba(181, 9, 172, 0.05);
   --global-text-color: #000000;
   --global-text-color-light: #828282;
@@ -353,17 +353,17 @@ blockquote {
 }
 
 footer.fixed-bottom {
-  background-color: var(--global-footer-bg-color);
+  background-color: var(--global-bg-color);
   font-size: 0.75rem;
   text-align: center;
 }
 footer.fixed-bottom .container {
-  color: var(--global-footer-text-color);
+  color: var(--global-text-color);
   padding-top: 9px;
   padding-bottom: 8px;
 }
 footer.fixed-bottom a {
-  color: var(--global-footer-link-color);
+  color: var(--global-link-color);
 }
 footer.fixed-bottom a:hover {
   color: var(--global-theme-color);
