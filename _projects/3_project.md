@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The acquisition of *ABA paradigms
+title: The Acquisition of *ABA Paradigms
 permalink: /projects/acquisitionaba
 importance: 1
 category: work
@@ -18,4 +18,4 @@ One hypothesis about why this is the case is that the human language faculty, un
 Our brains just can't do that. 
 Therefore, a child shouldn't be able to learn patterns like that, even if that's the input they get.
 
-In an ongoing experiment we're putting this hypothesis. We teach 6-7 years old children "an alien language", consisting of triplets like these. Some kids will learn an ABB language, some kids will learn an AAB language, and another group of kids will learn an ABA language. If these can't be learned, as our hypothesis says, these kids should perform less well than the other two groups. 
+In an ongoing experiment at the [Language Acquisition Lab at MIT](https://www.childlanguage.mit.edu/about) we're testing this hypothesis. We teach 6-7 years old children "an alien language", consisting of triplets like these. Some kids will learn an ABB language, some kids will learn an AAB language, and another group of kids will learn an ABA language. If these can't be learned, as our hypothesis says, these kids should perform less well than the other two groups. 
