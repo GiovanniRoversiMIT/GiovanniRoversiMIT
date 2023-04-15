@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications 🗞️
-description: #
+description: If a pdf isn't linked, just ask me! #
 nav: true
 nav_order: 1
 ---

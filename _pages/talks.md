@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: talks 🎤
-description: #
+description: Ask me for the hand-outs! #
 nav: true
 nav_order: 1
 ---
