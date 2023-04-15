@@ -28,6 +28,7 @@ Some of the topics I've worked on include:
 - **Agreement**: what kind of theory do we need to model complex agreement systems?
 - **Possession**: how is this semantic notion mapped onto the syntax of different languages?
 - **Language acquisition**: what kind of grammatical rules can('t) children acquire?
+- **Artificial intelligence**: what are large language models really doing, and how do they differ from humans?  
 - **Argument structure/voice**: how do we tell who does what to whom?
 - **Affix order**: how do we stack morphemes onto each other?
 
