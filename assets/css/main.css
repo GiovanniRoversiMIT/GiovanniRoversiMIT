@@ -67,6 +67,7 @@ html[data-theme=dark] .repo-img-dark {
  * Content
  ******************************************************************************/
 body {
+  font-family: "Elza Text", sans-serif;
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
