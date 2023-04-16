@@ -2,6 +2,7 @@
 layout: page
 title: Possession and Syntactic Categories
 permalink: /projects/possession
+description: If you're curious, find the manuscript under my publications!
 importance: 1
 category: work
 img: assets/img/aiwoo_screenshot.jpg
@@ -14,5 +15,3 @@ Of course, other two-place functions in English are mapped onto a different synt
 In this work, I argue that the Oceanic language Äiwoo *does* have such a verb. In fact, in this language this is the only way to express possession at all. There is no nominal possessive whatsoever -- even what looks like counterparts of English *my, your(s), their(s)*, etc., are in fact possessive verbs. Every possessed DP contains a relative clause, based on this verb: "Ana's dog" is, really, "the dog [that is Ana's]".
 
 This offers an empirical proof that the mapping between syntax and semantics must be relatively flexible. If possession is just a tool to assert that a certain relation holds between two entities, nothing in our theory of grammar predicts that such a notion should only be limited to a specific syntactic category.
-
-If you're curious, find the manuscript under my publications!

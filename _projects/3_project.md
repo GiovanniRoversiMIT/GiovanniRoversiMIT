@@ -3,6 +3,7 @@ layout: page
 title: The Acquisition of *ABA Paradigms
 permalink: /projects/acquisitionaba
 img: assets/img/aba_screenshot.jpg
+description: Stay tuned for a manuscript!
 importance: 1
 category: work
 ---
