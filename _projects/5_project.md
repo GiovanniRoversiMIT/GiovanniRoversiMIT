@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Possession and Syntactic Categories
-permalink: /projects/possession
+title: Biases in Large Language Models
+permalink: /projects/llmsbias
 importance: 1
 category: work
 ---
