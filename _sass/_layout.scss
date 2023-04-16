@@ -3,7 +3,7 @@
  ******************************************************************************/
 
 body {
-  font-family: "Elza Text", sans-serif;
+  font-family: "Concourse T2", sans-serif;
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
@@ -11,6 +11,11 @@ body {
   h1, h2, h3, h4, h5, h6 {
     scroll-margin-top: 66px;
   }
+}
+
+strong {
+  font-family: "Concourse T4", sans-serif;
+  font-weight: normal;
 }
 
 body.fixed-top-nav {

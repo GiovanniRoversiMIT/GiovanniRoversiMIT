@@ -2,7 +2,6 @@
 layout: page
 title: The Morphology of North Sámi Adjectives
 permalink: /projects/northsamiadjectives
-description: Stay tuned for a manuscript!
 img: assets/img/sami_flag.jpg
 importance: 1
 category: work
@@ -25,14 +24,14 @@ In others, they don't, but even here they're not bare: they surface in a special
     <td class="tg-73oq">a.</td>
     <td class="tg-73oq">biila</td>
     <td class="tg-73oq">lea</td>
-    <td class="tg-73oq"><b>ruoksat</b></td>
+    <td class="tg-73oq"><strong>ruoksat</strong></td>
   </tr>
   <tr>
     <td class="tg-73oq"></td>
     <td class="tg-73oq"></td>
     <td class="tg-73oq">car<font style="font-variant: small-caps">.nom.sg</font></td>
     <td class="tg-73oq">is</td>
-    <td class="tg-73oq"><b>red<font style="font-variant: small-caps">.nom.sg</font></b></td>
+    <td class="tg-73oq"><strong>red<font style="font-variant: small-caps">.nom.sg</font></strong></td>
   </tr>
   <tr>
     <td class="tg-73oq"></td>
@@ -44,14 +43,14 @@ In others, they don't, but even here they're not bare: they surface in a special
     <td class="tg-73oq">b.</td>
     <td class="tg-73oq">biilla-t</td>
     <td class="tg-73oq">leat</td>
-    <td class="tg-73oq"><b>ruoksad-at</b></td>
+    <td class="tg-73oq"><strong>ruoksad-at</strong></td>
   </tr>
   <tr>
     <td class="tg-73oq"></td>
     <td class="tg-73oq"></td>
     <td class="tg-73oq">car<font style="font-variant: small-caps">-nom.pl</font></td>
     <td class="tg-73oq">are</td>
-    <td class="tg-73oq"><b>red<font style="font-variant: small-caps">-nom.pl</font></b></td>
+    <td class="tg-73oq"><strong>red<font style="font-variant: small-caps">-nom.pl</font></strong></td>
   </tr>
   <tr>
     <td class="tg-73oq"></td>
@@ -72,13 +71,13 @@ In others, they don't, but even here they're not bare: they surface in a special
     <td class="tg-73oq">(2)</td>
     <td class="tg-73oq">sii</td>
     <td class="tg-73oq">orro-t</td>
-    <td class="tg-73oq"><b>ruoksad-is</b></td>
+    <td class="tg-73oq"><strong>ruoksad-is</strong></td>
   </tr>
   <tr>
     <td class="tg-73oq"></td>
     <td class="tg-73oq">they</td>
     <td class="tg-73oq">live<font style="font-variant: small-caps">-3pl</font></td>
-    <td class="tg-73oq"><b>red<font style="font-variant: small-caps">-loc.sg</font></b></td>
+    <td class="tg-73oq"><strong>red<font style="font-variant: small-caps">-loc.sg</font></strong></td>
   </tr>
   <tr>
     <td class="tg-73oq"></td>
@@ -96,7 +95,7 @@ In others, they don't, but even here they're not bare: they surface in a special
 <tbody>
   <tr>
     <td class="tg-73oq">(3)</td>
-    <td class="tg-73oq"><b>rukses</b></td>
+    <td class="tg-73oq"><strong>rukses</strong></td>
     <td class="tg-73oq">{biila</td>
     <td class="tg-73oq">/</td>
     <td class="tg-73oq">biilla-t</td>
@@ -107,7 +106,7 @@ In others, they don't, but even here they're not bare: they surface in a special
   </tr>
   <tr>
     <td class="tg-73oq"></td>
-    <td class="tg-73oq"><b>red<font style="font-variant: small-caps">.attr</font></b></td>
+    <td class="tg-73oq"><strong>red<font style="font-variant: small-caps">.attr</font></strong></td>
     <td class="tg-73oq">car<font style="font-variant: small-caps">.nom.sg</font></td>
     <td class="tg-73oq"></td>
     <td class="tg-73oq">car<font style="font-variant: small-caps">-nom.pl</font></td>
