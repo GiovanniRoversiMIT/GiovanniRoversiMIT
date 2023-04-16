@@ -2,6 +2,7 @@
 layout: page
 title: Possession and Syntactic Categories
 permalink: /projects/possession
+description: If you're curious, find the manuscript under my publications!
 importance: 1
 category: work
 img: assets/img/aiwoo_screenshot.jpg
