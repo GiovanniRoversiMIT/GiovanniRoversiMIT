@@ -16,7 +16,6 @@ In others, they don't, but even here they're not bare: they surface in a special
     .tg td{border-color:black;border-style:solid;border-width:0px;overflow:hidden;padding:0px 5px;word-break:normal;}
     .tg th{border-color:black;border-style:solid;border-width:0px;overflow:hidden;padding:0px 5px;word-break:normal;}
     .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
-    .tg .tg-mcqj{border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <tbody>
@@ -25,14 +24,14 @@ In others, they don't, but even here they're not bare: they surface in a special
     <td class="tg-73oq">a.</td>
     <td class="tg-73oq">biila</td>
     <td class="tg-73oq">lea</td>
-    <td class="tg-mcqj">ruoksat</td>
+    <td class="tg-73oq"><b>ruoksat</b></td>
   </tr>
   <tr>
     <td class="tg-73oq"></td>
     <td class="tg-73oq"></td>
     <td class="tg-73oq">car<font style="font-variant: small-caps">.nom.sg</font></td>
     <td class="tg-73oq">is</td>
-    <td class="tg-mcqj">red<font style="font-variant: small-caps">.nom.sg</font></td>
+    <td class="tg-73oq"><b>red<font style="font-variant: small-caps">.nom.sg</font></b></td>
   </tr>
   <tr>
     <td class="tg-73oq"></td>
@@ -44,14 +43,14 @@ In others, they don't, but even here they're not bare: they surface in a special
     <td class="tg-73oq">b.</td>
     <td class="tg-73oq">biilla-t</td>
     <td class="tg-73oq">leat</td>
-    <td class="tg-mcqj">ruoksad-at</td>
+    <td class="tg-73oq"><b>ruoksad-at</b></td>
   </tr>
   <tr>
     <td class="tg-73oq"></td>
     <td class="tg-73oq"></td>
     <td class="tg-73oq">car<font style="font-variant: small-caps">-nom.pl</font></td>
     <td class="tg-73oq">are</td>
-    <td class="tg-mcqj">red<font style="font-variant: small-caps">-nom.pl</font></td>
+    <td class="tg-73oq"><b>red<font style="font-variant: small-caps">-nom.pl</font></b></td>
   </tr>
   <tr>
     <td class="tg-73oq"></td>
@@ -65,7 +64,6 @@ In others, they don't, but even here they're not bare: they surface in a special
     .tg td{border-color:black;border-style:solid;border-width:0px;overflow:hidden;padding:0px 5px;word-break:normal;}
     .tg th{border-color:black;border-style:solid;border-width:0px;overflow:hidden;padding:0px 5px;word-break:normal;}
     .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
-    .tg .tg-mcqj{border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <tbody>
@@ -73,13 +71,13 @@ In others, they don't, but even here they're not bare: they surface in a special
     <td class="tg-73oq">(2)</td>
     <td class="tg-73oq">sii</td>
     <td class="tg-73oq">orro-t</td>
-    <td class="tg-mcqj">ruoksad-is</td>
+    <td class="tg-73oq"><b>ruoksad-is</b></td>
   </tr>
   <tr>
     <td class="tg-73oq"></td>
     <td class="tg-73oq">they</td>
     <td class="tg-73oq">live<font style="font-variant: small-caps">-3pl</font></td>
-    <td class="tg-mcqj">red<font style="font-variant: small-caps">.attr</font></td>
+    <td class="tg-73oq"><b>red<font style="font-variant: small-caps">-loc.sg</font></b></td>
   </tr>
   <tr>
     <td class="tg-73oq"></td>
@@ -92,13 +90,12 @@ In others, they don't, but even here they're not bare: they surface in a special
     .tg td{border-color:black;border-style:solid;border-width:0px;overflow:hidden;padding:0px 5px;word-break:normal;}
     .tg th{border-color:black;border-style:solid;border-width:0px;overflow:hidden;padding:0px 5px;word-break:normal;}
     .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
-    .tg .tg-mcqj{border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <tbody>
   <tr>
     <td class="tg-73oq">(3)</td>
-    <td class="tg-mcqj">rukses</td>
+    <td class="tg-73oq"><b>rukses</b></td>
     <td class="tg-73oq">{biila</td>
     <td class="tg-73oq">/</td>
     <td class="tg-73oq">biilla-t</td>
@@ -109,7 +106,7 @@ In others, they don't, but even here they're not bare: they surface in a special
   </tr>
   <tr>
     <td class="tg-73oq"></td>
-    <td class="tg-mcqj">red<font style="font-variant: small-caps">.attr</font></td>
+    <td class="tg-73oq"><b>red<font style="font-variant: small-caps">.attr</font></b></td>
     <td class="tg-73oq">car<font style="font-variant: small-caps">.nom.sg</font></td>
     <td class="tg-73oq"></td>
     <td class="tg-73oq">car<font style="font-variant: small-caps">-nom.pl</font></td>

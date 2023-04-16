@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Giovanni (he/him), a PhD student in linguistics at <a href='https://linguistics.mit.edu/user/groversi/'>MIT</a>.
+Hi! I'm Giovanni ([dʒovanːi], he/him), a PhD student in linguistics at <a href='https://linguistics.mit.edu/user/groversi/'>MIT</a>.
 
 My work is mostly involved with **morphology, syntax,<br> and their interactions**.<br>
 I often work on underresearched languages, most prominently Äiwoo (Oceanic), North Sámi (Uralic), and Passamaquoddy (Algonquian).<br> 
