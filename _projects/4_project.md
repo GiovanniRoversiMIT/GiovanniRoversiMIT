@@ -4,7 +4,7 @@ title: Possession and Syntactic Categories
 permalink: /projects/possession
 importance: 1
 category: work
-img: assets/img/aiwoo_screenshot.jpg
+img: assets/img/aiwoo_screenshot_dark.jpg
 ---
 
 The semantic notion of "possession" is not straight-forwardly mapped onto a uniform syntax across languages. In English, this is represented by *'s*, which is part of the nominal extended projection. Semantically, *'s* denotes a two-place function, asserting that some kind of contextually determined relation holds between two entities. 
