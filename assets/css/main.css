@@ -67,14 +67,18 @@ html[data-theme=dark] .repo-img-dark {
  * Content
  ******************************************************************************/
 body {
-  font-family: "Brandon Text", sans-serif;
-  font-weight: 400;
+  font-family: "Concourse T2", sans-serif;
+  font-size: 1.1em;
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
 }
 body h1, body h2, body h3, body h4, body h5, body h6 {
   scroll-margin-top: 66px;
+}
+
+strong {
+  font-weight: bold;
 }
 
 body.fixed-top-nav {
@@ -566,7 +570,7 @@ footer.sticky-bottom {
   border: 1px solid var(--global-theme-color);
 }
 .publications ol.bibliography li .title {
-  font-weight: bolder;
+  font-weight: bold;
 }
 .publications ol.bibliography li .author a {
   border-bottom: 1px dashed var(--global-theme-color);
