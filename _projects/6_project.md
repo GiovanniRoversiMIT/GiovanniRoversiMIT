@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Processing in an OVS language
-permalink: /projects/aiwooprocessing
+title: Biases in Large Language Models
+permalink: /projects/llmsbias
 importance: 1
 category: work
 ---
