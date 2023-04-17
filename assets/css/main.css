@@ -67,7 +67,7 @@ html[data-theme=dark] .repo-img-dark {
  * Content
  ******************************************************************************/
 body {
-  font-family: "Breuer Text", sans-serif;
+  font-family: "Brandon Text", sans-serif;
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
