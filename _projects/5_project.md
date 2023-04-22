@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-(Collaboration with Sebastian Sauppe, Åshild Næss, Martin Meyer, Ina Bornkessel-Schleswesky, and Balthasar Bickel.)
+(With Sebastian Sauppe, Åshild Næss, Martin Meyer, Ina Bornkessel-Schleswesky, and Balthasar Bickel.)
 
 In the field of language processing, it's a known effect that if a sentence starts with a nominal (NP/DP), the listener will just make the default assumption that this NP is the agent in the sentence to come. If the rest of the sentence then reveals this first NP was *not* the agent (for example because the verb is passive, or the patient/theme has been scrambled linearly to the first position, etc.), then speakers get surprised, and one can measure this physiologically (with EEG measurements).
 
