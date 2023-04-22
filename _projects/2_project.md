@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A smart dictionary for Passamaquoddy
+title: A Smart Dictionary for Passamaquoddy
 permalink: /projects/passamaquoddydictionary
 img: assets/img/pmq_screenshot.jpg
 importance: 1
