@@ -25,3 +25,19 @@
 "Meyer":
   - firstname: ["Martin", "M.", "Martin Meyer"]
     url: https://www.linguistik.uzh.ch/en/about/leitungsausschuss/meyer.html
+
+"Privoznov":
+  - firstname: ["Dmitry", "Mitya", "D.", "Dmitry Privoznov", "Mitya Privoznov"]
+    url: https://sites.google.com/view/dmitry-privoznov/home
+
+"Fox":
+  - firstname: ["Daniel", "Danny", "D.", "Daniel Fox", "Danny Fox"]
+    url: https://linguistics.mit.edu/user/fox/
+
+"Pesetsky":
+  - firstname: ["David", "D.", "David Pesetsky"]
+    url: https://linguistics.mit.edu/user/pesetsk/
+
+"Ershova":
+  - firstname: ["Ksenia", "K.", "Ksenia Ershova"]
+    url: http://web.mit.edu/kershova/www/index.html
