@@ -21,5 +21,11 @@
   author = {Roversi, Giovanni},
   address = {Undergraduate},
   year = {2019 (Fall)},
-  note = {I taught sections on language typology, language change, and language variation.},
+  teaching = {I taught sections on language typology, language change, and language variation.},
 }
+
+
+
+{%- if entry.type == "class" -%}
+          <ul><li>{{entry.note}}</li></ul>
+        {%- endif -%}

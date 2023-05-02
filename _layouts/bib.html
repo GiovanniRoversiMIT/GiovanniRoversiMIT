@@ -125,7 +125,7 @@
           {%- capture entrytype -%}<em>{{entry.school}}</em> {%- endcapture -%}
         {%- elsif entry.type == "mastersthesis" -%}
           {%- capture entrytype -%}MA thesis; {{entry.school}}{%- endcapture -%}
-        {%- elsif entry.type == "unpublished" or "class" -%}
+        {%- elsif entry.type == "unpublished" -%}
           {%- capture entrytype -%}{{entry.address}}{%- endcapture -%}
         {%- elsif entry.type == "misc" -%}
           {%- capture entrytype -%}{{entry.note}}{%- endcapture -%}
@@ -143,9 +143,10 @@
         <div class="periodical">
           {{ periodical | strip }}
         </div>
-        {%- if entry.type == "class" and entry.note -%}
-          <ul><li>{{entry.note}}</li></ul>
+        {%- if entry.type == "class" and entry.teaching -%}
+          <ul><li>{{entry.teaching}}</li></ul>
         {%- endif -%}
+
 
           <!-- Links/Buttons -->
           <div class="links">
