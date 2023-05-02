@@ -17,7 +17,7 @@ nav_order: 4
     - I taught a main section about Dependent Case Theory ([handout](https://giovanniroversimit.github.io/GiovanniRoversiMIT/assets/pdf/Roversi_DepCase_handout.pdf))
 - **24.902 Language and its structure II: Syntax** (2021; Fall)
     - Instructors: David Pesetsky
-    - I taught a main section about my research on possession and syntactic categories ([slides](https://giovanniroversimit.github.io/GiovanniRoversiMIT/assets/pdf/Roversi_Possession_Äiwoo_undergrad_slides.pdf))
+    - I taught a main section about my research on possession and syntactic categories ([slides](https://giovanniroversimit.github.io/GiovanniRoversiMIT/assets/pdf/Roversi_Possession_Aiwoo_undergrad_slides.pdf))
 
 <div class="publications">
 <h2 class="year">University of Oslo (Lecturer)</h2><br><br>
