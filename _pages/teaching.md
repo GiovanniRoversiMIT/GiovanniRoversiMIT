@@ -4,6 +4,11 @@ permalink: /teaching/
 title: teaching 🧑🏻‍🏫 
 nav: true
 nav_order: 4
+
+profile:
+  align: right
+  image: cls_talk2.jpg
+  image_circular: false
 ---
 
 <div class="publications">
