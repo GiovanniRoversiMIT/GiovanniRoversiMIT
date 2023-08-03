@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://giovanniroversimit.github.io/sitemap.xml
+Sitemap: https://giovanniroversi.com/sitemap.xml
