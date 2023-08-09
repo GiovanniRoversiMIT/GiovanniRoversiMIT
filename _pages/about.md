@@ -22,7 +22,8 @@ social: true  # includes social icons at the bottom of the page
 Hi! I'm Giovanni (he/him), a PhD student in linguistics at <a href='https://linguistics.mit.edu/user/groversi/'>MIT</a>.
 
 Most of my work deals with **morphology, syntax, and their interactions**.<br>
-I often work on underresearched languages, most prominently Äiwoo (Oceanic), North Sámi (Uralic), and Passamaquoddy (Algonquian).<br> 
+I often work on underresearched languages, and I've conducted fieldwork with native speakers on Äiwoo (Oceanic), North Sámi (Uralic), and Passamaquoddy (Algonquian).<br> 
+
 I'm also a member of the [Language Acquisition Lab at MIT](https://www.childlanguage.mit.edu/about).<br>
 Some of the topics I've worked on include:
 
