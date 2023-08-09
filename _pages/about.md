@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about me 👋🏼
-permalink: /about
+permalink: /
 # subtitle: I'm a PhD student in linguistics at <a href='https://linguistics.mit.edu/user/groversi/'>MIT</a>.
 
 profile:
