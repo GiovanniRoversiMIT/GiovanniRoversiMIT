@@ -16,10 +16,8 @@ In (1), the agent ("Anna") is the pivot; in (2), it's the theme ("fish"); in (3)
 In addition to the word order differences, this is cross-indexed by various verbal morphology.
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg td{border-color:black;border-style:solid;border-width:0px;overflow:hidden;padding:0px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:0px;overflow:hidden;padding:0px 5px;word-break:normal;}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
 </style>
