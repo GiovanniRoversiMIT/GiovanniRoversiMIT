@@ -105,6 +105,7 @@ In addition to the word order differences, this is cross-indexed by various verb
   </tr>
 </tbody>
 </table>
+<br>
 
 Some of the topics I have been researching are:
  - The syntax of Ā-extraction and its non-trivial interactions with the voice system;
