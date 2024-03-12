@@ -9,9 +9,6 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<h2 class="year">Manuscripts</h2><br><br>
-{% bibliography -f manuscripts %}
-
 <h2 class="year">Journal articles</h2><br><br>
 {% bibliography -f papers %}
 
