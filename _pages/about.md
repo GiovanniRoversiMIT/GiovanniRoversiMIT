@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Giovanni (he/him), a PhD student in linguistics at <a href='https://linguistics.mit.edu/user/groversi/'>MIT</a>.
+Hi! I'm Giovanni (he/him), a 4th year PhD student in linguistics at <a href='https://linguistics.mit.edu/user/groversi/'>MIT</a>.
 
 Most of my work deals with **morphology, syntax, and their interactions**.<br>
 I often work on underresearched languages, and I've conducted fieldwork with native speakers on Äiwoo (Oceanic), North Sámi (Uralic), and Passamaquoddy (Algonquian).<br> 
@@ -30,7 +30,7 @@ Some of the topics I've worked on include:
 - **Agreement**: what kind of theory do we need to model complex agreement systems?
 - **Possession**: how is this semantic notion mapped onto the syntax of different languages?
 - **Language acquisition**: what kind of grammatical rules can(’t) children acquire?
-- **Artificial intelligence**: what are large language models really doing, and how do they differ from humans?  
+- **Artificial intelligence**: what are large language models really doing, and how do they differ from humans  
 - **Argument structure/voice**: how do we tell who does what to whom?
 - **Affix order**: how do we stack morphemes onto each other?
 
