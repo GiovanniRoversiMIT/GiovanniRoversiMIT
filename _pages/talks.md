@@ -9,7 +9,7 @@ nav_order: 1
 
 profile:
   align: left
-  image: nyu_talk.jpg
+  image: assets/img/nyu_talk.jpg
   image_circular: false
 ---
 
