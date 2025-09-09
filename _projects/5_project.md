@@ -3,7 +3,7 @@ layout: page
 title: Processing in an OVS language
 permalink: /projects/aiwooprocessing
 img: assets/img/aiwoo_processing.jpg
-importance: 1
+importance: 2
 category: work
 ---
 

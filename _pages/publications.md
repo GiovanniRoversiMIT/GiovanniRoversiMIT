@@ -10,11 +10,14 @@ nav_order: 1
 <div class="publications">
 
 <h2 class="year">Journal articles</h2><br><br>
+{% bibliography -f dissertation %}
+
+<h2 class="year">Journal articles</h2><br><br>
 {% bibliography -f papers %}
 
 <h2 class="year">Proceedings articles</h2><br><br>
 {% bibliography -f proceedings %}
 
-<h2 class="year">Theses</h2><br><br>
+<h2 class="year">Older stuff</h2><br><br>
 {% bibliography -f theses %}
 </div>

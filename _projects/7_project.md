@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-Building on descriptive work by Åshild Næss, I'm currently actively conducting fieldwork on Äiwoo, an Oceanic ( < Austronesian) language spoken by about 8,000 people in the Reef Islands, part of the Santa Cruz archipelago in the Temotu province of the Solomon Islands. 
+Building on descriptive work by Åshild Næss, I'm currently actively conducting fieldwork on Äiwoo, an Oceanic (< Austronesian) language spoken by about 9,000 people in the Reef Islands, part of the Santa Cruz archipelago in the Temotu province of the Solomon Islands. 
 Due to its rather remote location, Äiwoo is severely underresearched, and mine is the first work looking at this language from a formal generative perspective. 
 My main focus currently is on a few aspects of the syntax of this language that can only be elucidated through targeted elicitation. 
 
@@ -107,8 +107,9 @@ In addition to the word order differences, this is cross-indexed by various verb
 </table>
 <br>
 
-Some of the topics I have been researching are:
- - The syntax of Ā-extraction and its non-trivial interactions with the voice system;
+In my [dissertation](https://giovanniroversi.com/publications/) I have tried to disentangle the interactions between the system of clausal/word order alternations, verbal voice morphology, and a fluid restriction on Ā-extraction (from certain clause types, only some arguments may be extracted, but not others.)<br><br>
+
+Other topics I have been researching are:
  - The way the classic binding conditions apply (or don't apply, or apply differently) depending on a clause's voice and the position of the relevant nominals being evaluated for coreference;
  - The syntax of reflexive constructions;
- - The interactions of word order and agreement.
+ - The syntax of cross-clausal A-dependencies (possibly hyperraising, possibly prolepsis, possibly movement-derived control).

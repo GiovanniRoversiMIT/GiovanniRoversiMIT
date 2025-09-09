@@ -3,7 +3,7 @@ layout: page
 title: A Smart Dictionary for Passamaquoddy
 permalink: /projects/passamaquoddydictionary
 img: assets/img/pmq_screenshot.jpg
-importance: 1
+importance: 2
 category: work
 ---
 

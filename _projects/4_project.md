@@ -2,7 +2,7 @@
 layout: page
 title: Possession and Syntactic Categories
 permalink: /projects/possession
-importance: 1
+importance: 2
 category: work
 img: assets/img/aiwoo_screenshot_dark.jpg
 ---

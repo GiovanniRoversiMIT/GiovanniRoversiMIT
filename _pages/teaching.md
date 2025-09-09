@@ -12,8 +12,11 @@ profile:
 ---
 
 <div class="publications">
+<h2 class="year">MIT (Main Instructor)</h2><br><br>
+{% bibliography -f teaching_mit_postdoc %}
+
 <h2 class="year">MIT (Teaching Assistant)</h2><br><br>
-{% bibliography -f teaching_mit %}
+{% bibliography -f teaching_mit_phd %}
 
 
 
