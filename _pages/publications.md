@@ -9,7 +9,7 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<h2 class="year">Journal articles</h2><br><br>
+<h2 class="year">Dissertation</h2><br><br>
 {% bibliography -f dissertation %}
 
 <h2 class="year">Journal articles</h2><br><br>
