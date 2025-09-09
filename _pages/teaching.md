@@ -7,7 +7,7 @@ nav_order: 4
 
 profile:
   align: right
-  image: assets/img/cls_talk2.jpg
+  image: cls_talk2_photo.jpg
   image_circular: false
 ---
 
