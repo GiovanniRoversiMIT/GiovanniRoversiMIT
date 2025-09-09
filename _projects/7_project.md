@@ -2,7 +2,7 @@
 layout: page
 title: Theory-informed fieldwork on Äiwoo
 permalink: /projects/aiwoofieldwork
-img: 
+img: assets/img/CPtree_screenshot.png
 importance: 1
 category: work
 ---
